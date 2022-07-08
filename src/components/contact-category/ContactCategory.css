@@ -1,0 +1,27 @@
+.contact-category {
+    padding: 0 6px;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.driver {
+    background-color: #74c0fc;
+}
+
+.owner {
+    background-color: #748ffc;
+}
+
+.carrier {
+    background-color: #82c91e;
+}
+
+.facility {
+    background-color: #9775fa;
+}
+
+.other {
+    background-color: #868e96;
+    color: #f8f9fa;
+}
+
