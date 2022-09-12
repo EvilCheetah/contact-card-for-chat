@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactJS-Contact-Card-For-Chat/static/css/main.9388fd49.css",
+    "main.js": "/ReactJS-Contact-Card-For-Chat/static/js/main.ce1ece4b.js",
+    "static/js/496.cec24104.chunk.js": "/ReactJS-Contact-Card-For-Chat/static/js/496.cec24104.chunk.js",
+    "index.html": "/ReactJS-Contact-Card-For-Chat/index.html",
+    "main.9388fd49.css.map": "/ReactJS-Contact-Card-For-Chat/static/css/main.9388fd49.css.map",
+    "main.ce1ece4b.js.map": "/ReactJS-Contact-Card-For-Chat/static/js/main.ce1ece4b.js.map",
+    "496.cec24104.chunk.js.map": "/ReactJS-Contact-Card-For-Chat/static/js/496.cec24104.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9388fd49.css",
+    "static/js/main.ce1ece4b.js"
+  ]
+}
