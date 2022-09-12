@@ -4,16 +4,16 @@ import { ContactInformation } from "./interface/contact-information.interface";
 export const contacts: ContactInformation[] = [
     {
         unit_number:  '200C',
-        full_name:    'Anton K',
+        full_name:    'Marion Ross',
         category:     'Driver',
-        company_name: 'Force Trans Inc.',
+        company_name: 'Walmart',
         phone_number: '+1 (916) 555-3535'
     },
     {
         unit_number:  '328C',
         full_name:    'Jeremy Lin',
         category:     'Carrier',
-        company_name: 'USKO',
+        company_name: 'Whole Foods',
         phone_number: '+1 (916) 777-3737'
     },
     {
@@ -29,9 +29,9 @@ export const contacts: ContactInformation[] = [
         phone_number: '+1 (916) 888-6878'
     },
     {
-        full_name:    'Vladimir Lenin',
+        full_name:    'Theresa Hopkins',
         category:     'Other',
-        company_name: 'USSR',
+        company_name: 'Residential',
         phone_number: '+7 (888) 911-1111'
     },
 ]
