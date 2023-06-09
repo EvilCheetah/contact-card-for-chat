@@ -9,7 +9,7 @@ If you just want to take a look at he final result, i.e. deployed version, go to
 ## How to Run
 
 Before running the project, make sure the dependencies are installed.
-In order to do that, run `npm i`.
+In order to do that, run `pnpm i`.
 
-To test the app builds, run `npm run build`.
-To view the visualization, run `npm start`.
+To test the app builds, run `pnpm run build`.
+To view the visualization, run `pnpm start`.
