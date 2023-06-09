@@ -1,8 +1,9 @@
 {
-  "homepage": "https://evilcheetah.github.io/contact-card-for-chat/",
+  "homepage": "https://evilcheetah.github.io/reactjs-conversation-card/",
   "name": "contact-card-for-chat",
   "version": "0.1.0",
   "private": true,
+  "packageManager": "^pnpm@7.12.2",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
